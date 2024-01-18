@@ -1,0 +1,13 @@
+1. feladat:
+Készítsünk programot, amely ki fogja kérdezni a matematikát (két szám összeadását, kivonását és szorzását az <1,10> intervallumból). A két számot és a mûveletet a számítógép véletlenszerûen válassza ki. A program akkor fejezõdjön be, ha a felhasználó 10 példát kiszámolt helyesen. Rossz válasz esetén kérdezze újra ugyanazt a példát. A program végén írjuk ki az eredményességet százalékokban.
+
+2. feladat:
+Készítsünk programot, amely bekér egy számot, majd meghatározza, hogy az a szám négyzetszám-e!
+
+3. feladat: 
+Generáljunk egy 4 jegyû PIN kódot. 
+Kérjük be a felhasználótól a PIN kódot. Maximum 3 próbálkozása lehet. Ha nem találja el, akkor írjuk ki, hogy HIBÁS, és hogy hány próbálkozása maradt még. Három sikertelen próbálkozás után írjuk ki hogy "ZÁROLÁS", egyébként "Sikeres azonosítás".
+Ha a PIN kód helyett egy mesterkódot ad meg (legyen: 123456) akkor írja ki a PIN kódot!
+
+4. feladat:
+Adott szám számjegyeinek fordított sorrendjének a meghatározása.
