@@ -1,0 +1,61 @@
+Hegycsúcs;Magasság lábban
+Bálvány;3136.1
+Büszkés-hegy;3122.9
+Cserepes-kő;2699.8
+Csikorgó;2552.1
+Esztea-fő;2614.5
+Fekete-Sár-bérc;3050.8
+Felső-Borovnyák (2);3057.3
+Felső-Borovnyák (1);3100.0
+Fodor-hegy;3054.0
+Füstös-kő-bérc;2991.7
+Három-kő;2965.5
+Hegyes-kő;2598.1
+Hosszú-bérc;2689.9
+Huta-bérc;3018.0
+Ispán-hegy;2991.7
+Istállós-kő;3142.6
+Kerek-hegy;2712.9
+Kerek-hegy;2591.5
+Kerek-réti-fő;2886.7
+Kis-kő-hát;3080.3
+Kis-Sár-bérc;3034.4
+Kis-tanya;3004.8
+Kis-Virágos-hegy;2847.4
+Kőris-hegy;3096.7
+Kőrös-bérc;3136.1
+Közép-bérc (1);2647.3
+Közép-bérc (2);2637.4
+Kukocsó-hegy;3086.8
+Küllő-hegy;2949.1
+Leány-hegy;2926.1
+Messzelátó;2804.7
+Nagy-Csipkés-tető;2850.7
+Nagy-Csipkés-tető (3);2765.4
+Nagy-Dél (1);2693.2
+Nagy-Dél (2);2621.0
+Nagy-Dél (3);2581.7
+Nagy-Hárs;2755.5
+Nagy-Kopasz;2962.2
+Nagy-kő-hát (1);3103.2
+Nagy-kő-hát (2);3070.4
+Nagy-Kőris;2696.5
+Nyárju-hegy (1);2916.3
+Nyárju-hegy (2);2903.1
+Őr-kő (2);2804.7
+Őr-kő (1);2886.7
+Pes-kő;2811.3
+Sándor-hegy;2853.9
+Semmi-bérc;2972.0
+Szilvási-kő;3152.5
+Tányéros-töbör;3142.6
+Tar-kő;3116.4
+Vargai-Kurta-bérc (1);2693.2
+Vargai-Kurta-bérc (2);2686.6
+Veres-Sár-bérc;2991.7
+Virágos-sár (2);3116.4
+Virágos-Sár-hegy;3132.8
+Zsérci-Nagy-Dél (1);2883.5
+Zsérci-Nagy-Dél (2);2876.9
+Zsérci-Nagy-Dél (3);2817.9
+Zsérci-Nagy-Dél (4);2788.3

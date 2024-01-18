@@ -1,0 +1,5 @@
+print("1. feladat: Téglalap kerülete és területe\nAdja meg a téglalap oldalait!")
+a=float(input("a= "))
+b=float(input("b= "))
+print(F"T = {a*b}")
+print(F"K = {2*(a+b)}")
